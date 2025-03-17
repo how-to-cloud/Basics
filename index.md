@@ -3,7 +3,7 @@ title: Overview
 nav_order: 1
 ---
 
-# E2E Develover Experience Guide
+# Cloud Architecture Guide
 This Developer Guide will guide you through the concepts and setup of Microsoft DevOps tooling, from decision making to good practices. It is designed to bring customer and partners to a good (Level 200) knowledge of Developer Experience tooling. It is meant as decision guidance and practical insights to the Microsoft DevOps tooling. All instructions provided require a basic understanding of  [DevOps](https://learn.microsoft.com/en-us/devops/what-is-devops)
 
 ## The following areas will be covered
